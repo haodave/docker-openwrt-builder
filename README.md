@@ -11,7 +11,7 @@ Works with LEDE-17.01, OpenWrt-18.06 and newer.
 
 ## Build Docker image with Podman or Docker
 ```sh
-git clone https://github.com/da7eh/docker-openwrt-builder
+git clone https://github.com/haodave/docker-openwrt-builder
 cd docker-openwrt-builder
 
 # Important: 
